@@ -33,15 +33,10 @@ graph TD;
 
 
 <details>
-  <summary><b>🛠️ Click to view Project Structure</b></summary>
+  <summary><b>i use tis video for comfort :p</b></summary>
   <br>
 
-| Directory | Purpose | Key File |
-| :--- | :--- | :--- |
-| `📂 src/` | Core application logic | `main.py` |
-| `📂 tests/` | Automated test suites | `test_core.py` |
-| `📂 docs/` | Expanded documentation | `API.md` |
-
+https://www.youtube.com/watch?v=QJ7jJvYXOcY
 </details>
 
 <p align="center">
