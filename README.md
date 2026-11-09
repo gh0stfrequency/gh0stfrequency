@@ -22,3 +22,28 @@
 
 > [!CAUTION]
 > Negative consequences of an action.
+>
+> <img src="https://herokuapp.com!+👋;I'm+a+Software+Engineer;Welcome+to+my+repository!" alt="Typing SVG" />
+
+graph TD;
+    A[User visits GitHub] --> B{Sees click-to-show list?};
+    B -- Yes --> C[Clicks to open dropdown];
+    B -- No --> D[Scrolls past content];
+    C --> E[Discovers awesome layout 🎉];
+
+
+<details>
+  <summary><b>🛠️ Click to view Project Structure</b></summary>
+  <br>
+
+| Directory | Purpose | Key File |
+| :--- | :--- | :--- |
+| `📂 src/` | Core application logic | `main.py` |
+| `📂 tests/` | Automated test suites | `test_core.py` |
+| `📂 docs/` | Expanded documentation | `API.md` |
+
+</details>
+
+[![Watch the demo video](https://youtube.com)](https://youtu.be)
+
+![Your GitHub Stats](https://vercel.app)
