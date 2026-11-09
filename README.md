@@ -44,5 +44,9 @@ graph TD;
 
 </details>
 
-[![Watch the demo video](https://www.youtube.com/watch?v=QJ7jJvYXOcY)]
+<p align="center">
+  <video src=(https://www.youtube.com/watch?v=QJ7jJvYXOcY) width="100%" controls></video>
+</p>
+
+
 ![Your GitHub Stats](https://vercel.app)
