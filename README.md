@@ -44,25 +44,8 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="Project Logo" src="https://githubusercontent.com">
-</picture>
-
 <div align="center">
   <img src="https://placeholder.com" alt="Logo" width="80" />
   <h1>Awesome Project Name</h1>
   <p>A short, punchy one-liner description of what this repository does.</p>
 </div>
-
-![Python](https://shields.io)
-![React](https://shields.io)
-![Docker](https://shields.io)
-
-[![View Documentation](https://shields.io)](https://your-docs-link.com)
-
-![Your Stats](https://vercel.app)
-
-[![trophy](https://vercel.app)](https://github.com)
-
