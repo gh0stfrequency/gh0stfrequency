@@ -11,10 +11,12 @@
 
 
 <details>
-  <summary><b>i use tis video for comfort :p</b></summary>
+  <summary><b>comfort websites :o</b></summary>
   <br>
 
-https://www.youtube.com/watch?v=QJ7jJvYXOcY
+- . https://www.youtube.com/watch?v=QJ7jJvYXOcY
+- 
+- . https://imissmycafe.com/
 </details>
 
 <p align="center">
