@@ -54,11 +54,7 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 <br>
 
 <br>
-
-<br>
-
-<br>
-
+.
 <br>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/PvYWNmQJ/52f66023f00c1552de05f6d4e346eeaa.jpg" alt="52f66023f00c1552de05f6d4e346eeaa" border="0" /></a>
