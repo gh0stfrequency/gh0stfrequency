@@ -47,7 +47,7 @@
 
 . . .
 
-𔓘 . focustown.app
+𔓘 . https://focustown.app
 
 . . .
 
@@ -63,7 +63,7 @@
 
 . . .
 
-𔓘 . https:/rainycafe.com
+𔓘 . https://rainycafe.com
 </details>
 
 <p align="center">
