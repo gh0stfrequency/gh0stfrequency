@@ -49,8 +49,10 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 ! Orange Line: Use an exclamation mark for critical notice items.
 @@ Purple Line: Use double @ symbols for informational headings @@
 ```
+<br>
 
+<br>
 
-<p style="margin-bottom: 50px;"></p>
+<br>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/PvYWNmQJ/52f66023f00c1552de05f6d4e346eeaa.jpg" alt="52f66023f00c1552de05f6d4e346eeaa" border="0" /></a>
