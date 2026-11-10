@@ -23,13 +23,6 @@
 > [!CAUTION]
 > Negative consequences of an action.
 >
-> <img src="https://herokuapp.com!+👋;I'm+a+Software+Engineer;Welcome+to+my+repository!" alt="Typing SVG" />
-
-graph TD;
-    A[User visits GitHub] --> B{Sees click-to-show list?};
-    B -- Yes --> C[Clicks to open dropdown];
-    B -- No --> D[Scrolls past content];
-    C --> E[Discovers awesome layout 🎉];
 
 
 <details>
