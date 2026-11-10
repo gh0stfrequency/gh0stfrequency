@@ -19,6 +19,51 @@
  . . .
  
 𔓘 . https://imissmycafe.com/
+
+. . .
+
+𔓘 . https://lofi.town
+( lofi town is 1 of my fav websites overall hehe :p )
+
+. . .
+
+𔓘 . https://v0-fridaynightvibes.vercel.app/
+
+. . .
+
+𔓘 . https://imissmylibrary.com
+
+. . .
+
+𔓘 . https://imisstheoffice.eu/
+
+. . .
+
+𔓘 . https://www.window-swap.com/
+
+. . .
+
+𔓘 . https://asoftmurmur.com/
+
+. . .
+
+𔓘 . focustown.app
+
+. . .
+
+𔓘 . https://noises.online/
+
+. . .
+
+𔓘 . https://www.flowtunes.app/
+
+. . .
+
+𔓘 . https://moodil.com
+
+. . .
+
+𔓘 . https:/rainycafe.com
 </details>
 
 <p align="center">
