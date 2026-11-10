@@ -49,6 +49,46 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
   <p>A short, punchy one-liner description of what this repository does.</p>
 </div>
 
+graph TD
+    A[User Visits Repo] --> B{Likes Project?}
+    B -- Yes --> C[Click Star Button ⭐]
+    B -- No --> D[Keep Reading README 📖]
+    C --> E[Happy Developer 🎉]
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3>🚀 Core Features</h3>
+      <ul>
+        <li>Lightning fast response time</li>
+        <li>Fully open source architecture</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <p>Python • React • Docker • PostgreSQL</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Node.js (npm) Installation</b></summary>
+
+  ```bash
+  npm install awesome-package
+  ```
+</details>
+
+<details>
+  <summary><b>Python (pip) Installation</b></summary>
+
+  ```bash
+  pip install awesome-package
+  ```
+</details>
+
+[![WakaTime Stats](https://vercel.app)](https://wakatime.com)
+
 
 
 ```diff
