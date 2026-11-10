@@ -64,6 +64,9 @@
 . . .
 
 𔓘 . https://rainycafe.com
+<br>
+<br>
+<a href="https://ibb.co/sBKLVk0"><img src="https://i.ibb.co/x41V7Pp/2026-11-10-04w-Kleki.png" alt="2026-11-10-04w-Kleki" border="0" /></a>
 </details>
 
 <p align="center">
