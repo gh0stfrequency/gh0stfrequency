@@ -11,7 +11,7 @@
 
 
 <details>
-  <summary><b>comfort websites :o</b></summary>
+  <summary><b>comfort websites :o (atleast the only ones i can accsess :c)</b></summary>
   <br>
 
 𔓘 . https://www.youtube.com/watch?v=QJ7jJvYXOcY
