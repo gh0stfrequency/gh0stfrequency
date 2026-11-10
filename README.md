@@ -63,27 +63,6 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 ! Orange Line: Use an exclamation mark for critical notice items.
 @@ Purple Line: Use double @ symbols for informational headings @@
 ```
-```
-
-### 6. Interactive Task & Check Lists
-Perfect for roadmaps or features lists, you can write active checkboxes that visitors can see ticked off. If you have write access to the repository, you can check/uncheck them directly on the rendered page without touching the code.
-
-```markdown
-### 🚀 Project Roadmap
-- [x] Version 1.0 Release 🎉
-- [ ] Implement dark mode toggle
-- [ ] Integrate Stripe payment gateway
-```
-
-### 7. Modern "Terminal-Style" Identity Cards
-If you love the look of the command line, you can generate a customizable, dynamic terminal layout showing your live code profile specs.
-
-```markdown
-![Terminal Identity Card](https://vercel.app)
-```
-
-<FollowUp>
-Let me know:
 * Do you want to see how to trigger a **GitHub Action workflow** to keep these stats updated?
 * Would you like an aesthetic, pre-made **all-in-one template layout** to copy and paste directly?
 </FollowUp>
