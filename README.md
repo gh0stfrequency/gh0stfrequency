@@ -1,3 +1,16 @@
+
+<a href="https://ibb.co/XZ33Z7SW"><img src="https://i.ibb.co/QFCCFPrJ/2026-11-10-02q-Kleki.png" alt="2026-11-10-02q-Kleki" border="0" /></a>
+<br>
+<a href="https://ibb.co/6qPJx7L"><img src="https://i.ibb.co/2ptYQ1H/2026-11-10-025-Kleki-1.png" alt="2026-11-10-025-Kleki-1" border="0" /></a>
+<br>
+<a href="https://ibb.co/Mk0bffR4"><img src="https://i.ibb.co/4Rrc22jG/2026-11-10-024-Kleki.png" alt="2026-11-10-024-Kleki" border="0" /></a>
+<br>
+<a href="https://ibb.co/C5CyhsCd"><img src="https://i.ibb.co/vxyWZvy5/2026-11-10-025-Kleki.png" alt="2026-11-10-025-Kleki" border="0" /></a>
+<br>
+<a href="https://ibb.co/QvS74rF4"><img src="https://i.ibb.co/yFvmrWnr/2026-11-10-03a-Kleki.png" alt="2026-11-10-03a-Kleki" border="0" /></a>
+
+<br>
+
 <details>
   <summary><b>Click to expand my list</b></summary>
 
@@ -58,16 +71,5 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 <br>
 
 <br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/PvYWNmQJ/52f66023f00c1552de05f6d4e346eeaa.jpg" alt="52f66023f00c1552de05f6d4e346eeaa" border="0" /></a>
