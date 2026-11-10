@@ -57,10 +57,3 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 @@ Purple Line: Use double @ symbols for informational headings @@
 ```
 ```
-## ♟️ Play Chess with Me!
-It's the internet vs. my README! Click a legal move below to play.
-
-![Chess Board](https://githubusercontent.com)
-
-[👉 Click here to make your move!](https://github.com)
-
