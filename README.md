@@ -44,8 +44,7 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 </p>
 
 
-<div align="center">
-  <img src="https://placeholder.com" alt="Logo" width="80" />
+
   <h1>Awesome Project Name</h1>
   <p>A short, punchy one-liner description of what this repository does.</p>
 </div>
