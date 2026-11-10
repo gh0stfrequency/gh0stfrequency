@@ -63,6 +63,5 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 ! Orange Line: Use an exclamation mark for critical notice items.
 @@ Purple Line: Use double @ symbols for informational headings @@
 ```
-* Do you want to see how to trigger a **GitHub Action workflow** to keep these stats updated?
-* Would you like an aesthetic, pre-made **all-in-one template layout** to copy and paste directly?
-</FollowUp>
+```
+
