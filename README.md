@@ -50,3 +50,8 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
 @@ Purple Line: Use double @ symbols for informational headings @@
 ```
 ```
+https://ibb.co/XZ33Z7SW
+https://ibb.co/6qPJx7L
+https://ibb.co/C5CyhsCd
+https://ibb.co/Mk0bffR4
+https://ibb.co/YFWd3RZJ
