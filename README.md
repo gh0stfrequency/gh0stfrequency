@@ -1,8 +1,4 @@
-<a href="https://ibb.co/XZ33Z7SW"><img src="https://i.ibb.co/QFCCFPrJ/2026-11-10-02q-Kleki.png" alt="2026-11-10-02q-Kleki" border="0" /></a>
-<a href="https://ibb.co/6qPJx7L"><img src="https://i.ibb.co/2ptYQ1H/2026-11-10-025-Kleki-1.png" alt="2026-11-10-025-Kleki-1" border="0" /></a>
-<a href="https://ibb.co/Mk0bffR4"><img src="https://i.ibb.co/4Rrc22jG/2026-11-10-024-Kleki.png" alt="2026-11-10-024-Kleki" border="0" /></a>
-<a href="https://ibb.co/C5CyhsCd"><img src="https://i.ibb.co/vxyWZvy5/2026-11-10-025-Kleki.png" alt="2026-11-10-025-Kleki" border="0" /></a>
-<a href="https://ibb.co/QvS74rF4"><img src="https://i.ibb.co/yFvmrWnr/2026-11-10-03a-Kleki.png" alt="2026-11-10-03a-Kleki" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mFbK6Tkj/2026-11-10-03m-Kleki-1.png" alt="2026-11-10-03m-Kleki-1" border="0" /></a>
 
 <details>
   <summary><b>Click to expand my list</b></summary>
