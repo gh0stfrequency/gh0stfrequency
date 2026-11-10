@@ -49,13 +49,7 @@ https://www.youtube.com/watch?v=QJ7jJvYXOcY
   <p>A short, punchy one-liner description of what this repository does.</p>
 </div>
 
-<p align="center">
-  <img src="https://herokuapp.com!+👋;I'm+a+Full+Stack+Developer;Welcome+to+my+repo!🔥" alt="Typing SVG" />
-</p>
 
-![GitHub Contribution Grid Snake](https://githubusercontent.com)
-
-![Header](https://vercel.app)
 
 ```diff
 + Green Line: Use a plus sign for success or additions.
