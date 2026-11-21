@@ -8,11 +8,9 @@ haii me is arid
 <details>
   <summary><b>fandoms</b></summary>
 
-grace [roblox]
 
-$\color{red}{\text{This text is red}}$
-
-$\color{#7e1330}{\text{grace [roblox]}}$
+$\color{#7e1330}{\text{grace [roblox]}}$ . . . $\color{red}{\text{I don}}$
+![i dont support s1mon btw.](https://demolab.com.)
 
 
 </details>
