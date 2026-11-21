@@ -8,6 +8,7 @@ haii me is arid
 <details>
   <summary><b>fandoms</b></summary>
 
+<br>
 
 $\color{#7e1330}{\text{grace [roblox]}}$ . . . $\color{red}{\text{I dont support szymon227G btw.}}$
 
