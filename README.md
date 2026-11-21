@@ -73,6 +73,7 @@ wip
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mFbK6Tkj/2026-11-10-03m-Kleki-1.png" alt="2026-11-10-03m-Kleki-1" border="0" /></a>
 
+im a lil stupid :o 
 
 <p align="center">
   <video src=(https://www.youtube.com/watch?v=QJ7jJvYXOcY) width="100%" controls></video>
