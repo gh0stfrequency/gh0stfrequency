@@ -9,9 +9,7 @@ haii me is arid
   <summary><b>fandoms</b></summary>
 
 
-$\color{#7e1330}{\text{grace [roblox]}}$ . . . $\color{red}{\text{I don}}$
-![i dont support s1mon btw.](https://demolab.com.)
-
+$\color{#7e1330}{\text{grace [roblox]}}$ . . . $\color{red}{\text{I dont support szymon227G btw.}}$
 
 </details>
 
