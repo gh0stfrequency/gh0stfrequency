@@ -1,9 +1,19 @@
+
+
 haii me is arid
+
+
+
 
 <details>
   <summary><b>fandoms</b></summary>
 
 grace [roblox]
+
+$\color{red}{\text{This text is red}}$
+
+$\color{#0070f3}{\text{This text uses a hex code}}$
+
 
 </details>
 
