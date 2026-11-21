@@ -12,7 +12,7 @@ grace [roblox]
 
 $\color{red}{\text{This text is red}}$
 
-$\color{#0070f3}{\text{This text uses a hex code}}$
+$\color{#43101e}{\text{grace [roblox]}}$
 
 
 </details>
