@@ -3,7 +3,7 @@ haii me is arid
 <details>
   <summary><b>fandoms</b></summary>
 
-wip
+grace [roblox]
 
 </details>
 
