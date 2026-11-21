@@ -1,11 +1,9 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mFbK6Tkj/2026-11-10-03m-Kleki-1.png" alt="2026-11-10-03m-Kleki-1" border="0" /></a>
 
 <details>
-  <summary><b>Click to expand my list</b></summary>
+  <summary><b>fandoms</b></summary>
 
-  - Item one
-  - Item two
-  - Item three
+wip
 
 </details>
 
