@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/mFbK6Tkj/2026-11-10-03m-Kleki-1.png" alt="2026-11-10-03m-Kleki-1" border="0" /></a>
+haii me is arid
 
 <details>
   <summary><b>fandoms</b></summary>
@@ -70,6 +70,9 @@ wip
 <br>
 <a href="https://ibb.co/sBKLVk0"><img src="https://i.ibb.co/x41V7Pp/2026-11-10-04w-Kleki.png" alt="2026-11-10-04w-Kleki" border="0" /></a>
 </details>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mFbK6Tkj/2026-11-10-03m-Kleki-1.png" alt="2026-11-10-03m-Kleki-1" border="0" /></a>
+
 
 <p align="center">
   <video src=(https://www.youtube.com/watch?v=QJ7jJvYXOcY) width="100%" controls></video>
